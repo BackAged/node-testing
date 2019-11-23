@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1574536172179" clover="3.2.0">
-  <project timestamp="1574536172179" name="All files">
+<coverage generated="1574538439190" clover="3.2.0">
+  <project timestamp="1574538439190" name="All files">
     <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4" elements="15" coveredelements="15" complexity="0" loc="7" ncloc="7" packages="1" files="2" classes="2"/>
     <file name="addController.js" path="/home/shahin/Testing/test-stub/addController.js">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
