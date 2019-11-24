@@ -1,5 +1,5 @@
 # jest-test-sample
 
-## Demonstrate testing with nodejs jest framework
+### Demonstrates testing with nodejs jest framework
 
-## Demonstrate testdouble like mock, stub, spy
+### Demonstrates different testdouble like mock, stub, spy
